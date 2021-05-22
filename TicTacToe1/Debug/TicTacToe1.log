@@ -1,0 +1,12 @@
+﻿  TicTacToe1.cpp
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(199,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(199,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(200,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(200,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(201,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(201,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(202,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(202,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(264,7): warning C4101: 'draw': unreferenced local variable
+C:\Users\ayush\source\repos\TicTacToe1\TicTacToe1.cpp(258): warning C4715: 'checkIfWin': not all control paths return a value
+  TicTacToe1.vcxproj -> C:\Users\ayush\source\repos\TicTacToe1\Debug\TicTacToe1.exe
